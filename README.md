@@ -12,6 +12,7 @@ This repository contains five mini-projects built using HTML, CSS, and JavaScrip
 
 ### 1.	Drink Water
 ![Drink Water](Drink%20Water/images/drink-water.png)
+
 	- Description: A simple application that tracks and displays the amount of water you drink throughout the day.
 	- Features: User interface for inputting and tracking water consumption.
 
@@ -24,7 +25,7 @@ This repository contains five mini-projects built using HTML, CSS, and JavaScrip
 ### 3.  Form Validator
 ![Form Validator](Form%20Validator/images/form%20validator.png)
 
-	Description: This form includes fields for name, email, password, and confirm password, with validation for each field.
+	- Description: This form includes fields for name, email, password, and confirm password, with validation for each field.
 	- Features: Real-time form validation and user feedback for correct or incorrect input.
 
 ### 4.	Score Keeper
