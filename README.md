@@ -9,8 +9,8 @@ This repository contains a collection of five mini-projects built using HTML, CS
 	•	Features: User interface for inputting and tracking water consumption.
 
 ### 2.	Expanding Cards
-        •	Description: A gallery of cards that expand to reveal more content when clicked.
-	•	Features: Interactive and responsive card design for a dynamic gallery experience.
+        •Description: A gallery of cards that expand to reveal more content when clicked.
+	•Features: Interactive and responsive card design for a dynamic gallery experience.
 
 ### 3.  Form Validator
 	•	Description: A form that includes fields for name, email, password, and confirm password, with validation for each field.
