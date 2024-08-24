@@ -5,7 +5,7 @@ This repository contains a collection of five mini-projects built using HTML, CS
 ## Projects
 
 ### 1.	Drink Water
-![Portfolio Project Screenshot](HTML-CSS-JS-TOY-PROJECT/Drink Water/drink-water.png)
+![Portfolio Project Screenshot](HTML-CSS-JS-TOY-PROJECT/Drink Water/images/drink-water.png)
 
 	- Description: A simple application that tracks and displays the amount of water you drink throughout the day.
 	- Features: User interface for inputting and tracking water consumption.
