@@ -1,6 +1,6 @@
 # HTML-CSS-JS-TOY-PROJECT-COLLECTION
 
-This repository contains a collection of five mini-projects built using HTML, CSS, and JavaScript. Each project demonstrates different functionalities and design techniques.
+This repository contains five mini-projects built using HTML, CSS, and JavaScript. Each project demonstrates different functionalities and design techniques.
 
 
 ## Technologies Used
@@ -18,23 +18,23 @@ This repository contains a collection of five mini-projects built using HTML, CS
 ### 2.	Expanding Cards
 ![Expanding Cards](Expanding%20Cards/expanding%20cards.png)
 
-        •       Description: A gallery of cards that expand to reveal more content when clicked.
-	•       Features: Interactive and responsive card design for a dynamic gallery experience.
+        - Description: A gallery of cards that expand to reveal more content when clicked.
+	- Features: Interactive and responsive card design for a dynamic gallery experience.
 
 ### 3.  Form Validator
+![Form Validator](Form%20Validator/images/form%20validator.png)
 
-
-	•	Description: A form that includes fields for name, email, password, and confirm password, with validation for each field.
-	•	Features: Real-time form validation and user feedback for correct or incorrect input.
+	Description: This form includes fields for name, email, password, and confirm password, with validation for each field.
+	- Features: Real-time form validation and user feedback for correct or incorrect input.
 
 ### 4.	Score Keeper
-![Portfolio Project Screenshot](HTML-CSS-JS-TOY-PROJECT/ScoreKeeper/score keeper.png)
+![Score Keeper](ScoreKeeper/score%20keeper.png)
 
-	•	Description: A score-tracking application for a table tennis game.
-	•	Features: Input and display of scores, with functionality to reset scores.
+	- Description: A score-tracking application for a table tennis game.
+	- Features: Input and display of scores, with functionality to reset scores.
 
 ### 5.	Movie Seat Booking
-![Portfolio Project Screenshot](HTML-CSS-JS-TOY-PROJECT/MovieSeatBooking/movie booking.png)
+![Movie Seat Booking](MovieSeatBooking/movie%20booking.png)
 
-	•	Description: A movie theater seat booking system where users can select and book seats.
-	•	Features: Interactive seat selection and booking with visual feedback.
+	- Description: A movie theater seat booking system where users can select and book seats.
+	- Features: Interactive seat selection and booking with visual feedback.
