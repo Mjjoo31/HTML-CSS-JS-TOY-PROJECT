@@ -16,13 +16,13 @@ This repository contains a collection of five mini-projects built using HTML, CS
 	- Features: User interface for inputting and tracking water consumption.
 
 ### 2.	Expanding Cards
-![Portfolio Project Screenshot](HTML-CSS-JS-TOY-PROJECT/Expanding Cards/expanding cards.png)
+![Expanding Cards](Expanding%20Cards/expanding%20cards.png)
 
         •       Description: A gallery of cards that expand to reveal more content when clicked.
 	•       Features: Interactive and responsive card design for a dynamic gallery experience.
 
 ### 3.  Form Validator
-![Portfolio Project Screenshot](HTML-CSS-JS-TOY-PROJECT/Form Validator/form validator.png)
+
 
 	•	Description: A form that includes fields for name, email, password, and confirm password, with validation for each field.
 	•	Features: Real-time form validation and user feedback for correct or incorrect input.
